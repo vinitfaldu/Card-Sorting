@@ -1,0 +1,19 @@
+<div class="card-sorter-container">
+    <h2>Sort Your Deck of Cards</h2>
+  
+    <textarea
+      [(ngModel)]="cardsInput"
+      placeholder="Enter cards separated by commas (e.g., 3C, JS, 2D, PT, 10H, KH)"
+      rows="4"
+    ></textarea>
+  
+    <button (click)="onSortCards()">Sort Cards</button>
+  
+    <div *ngIf="errorMessage" class="error-message">{{ errorMessage }}</div>
+  
+    <h3 *ngIf="sortedCards.length">Sorted Cards:</h3>
+    <ul class="sorted-cards-list">
+      <li *ngFor="let card of sortedCards">{{ card }}</li>
+    </ul>
+  </div>
+  
