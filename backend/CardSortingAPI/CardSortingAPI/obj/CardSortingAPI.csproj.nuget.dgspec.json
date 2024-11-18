@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects - Jinesh\\VM\\CardSorting - JK\\backend\\CardSortingAPI\\CardSortingAPI\\CardSortingAPI.csproj": {}
+    "C:\\Users\\vinitfal\\Downloads\\CardSorting - Full\\CardSorting\\backend\\CardSortingAPI\\CardSortingAPI\\CardSortingAPI.csproj": {}
   },
   "projects": {
-    "C:\\Projects - Jinesh\\VM\\CardSorting - JK\\backend\\CardSortingAPI\\CardSortingAPI\\CardSortingAPI.csproj": {
+    "C:\\Users\\vinitfal\\Downloads\\CardSorting - Full\\CardSorting\\backend\\CardSortingAPI\\CardSortingAPI\\CardSortingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects - Jinesh\\VM\\CardSorting - JK\\backend\\CardSortingAPI\\CardSortingAPI\\CardSortingAPI.csproj",
+        "projectUniqueName": "C:\\Users\\vinitfal\\Downloads\\CardSorting - Full\\CardSorting\\backend\\CardSortingAPI\\CardSortingAPI\\CardSortingAPI.csproj",
         "projectName": "CardSortingAPI",
-        "projectPath": "C:\\Projects - Jinesh\\VM\\CardSorting - JK\\backend\\CardSortingAPI\\CardSortingAPI\\CardSortingAPI.csproj",
-        "packagesPath": "C:\\Users\\j947037.CORPORATE\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects - Jinesh\\VM\\CardSorting - JK\\backend\\CardSortingAPI\\CardSortingAPI\\obj\\",
+        "projectPath": "C:\\Users\\vinitfal\\Downloads\\CardSorting - Full\\CardSorting\\backend\\CardSortingAPI\\CardSortingAPI\\CardSortingAPI.csproj",
+        "packagesPath": "C:\\Users\\vinitfal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vinitfal\\Downloads\\CardSorting - Full\\CardSorting\\backend\\CardSortingAPI\\CardSortingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\j947037.CORPORATE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vinitfal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,9 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/Altera-Digital-Health/_packaging/CMNugetRepo/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -41,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net5.0": {
@@ -62,7 +65,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -74,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

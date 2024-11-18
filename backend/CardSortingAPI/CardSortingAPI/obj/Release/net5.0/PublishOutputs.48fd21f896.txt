@@ -1,0 +1,11 @@
+C:\Users\vinitfal\Downloads\CardSorting - Full\CardSorting\backend\CardSortingAPI\CardSortingAPI\obj\Release\net5.0\PubTmp\Out\CardSortingAPI.exe
+C:\Users\vinitfal\Downloads\CardSorting - Full\CardSorting\backend\CardSortingAPI\CardSortingAPI\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vinitfal\Downloads\CardSorting - Full\CardSorting\backend\CardSortingAPI\CardSortingAPI\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\vinitfal\Downloads\CardSorting - Full\CardSorting\backend\CardSortingAPI\CardSortingAPI\obj\Release\net5.0\PubTmp\Out\CardSortingAPI.dll
+C:\Users\vinitfal\Downloads\CardSorting - Full\CardSorting\backend\CardSortingAPI\CardSortingAPI\obj\Release\net5.0\PubTmp\Out\CardSortingAPI.deps.json
+C:\Users\vinitfal\Downloads\CardSorting - Full\CardSorting\backend\CardSortingAPI\CardSortingAPI\obj\Release\net5.0\PubTmp\Out\CardSortingAPI.runtimeconfig.json
+C:\Users\vinitfal\Downloads\CardSorting - Full\CardSorting\backend\CardSortingAPI\CardSortingAPI\obj\Release\net5.0\PubTmp\Out\CardSortingAPI.pdb
+C:\Users\vinitfal\Downloads\CardSorting - Full\CardSorting\backend\CardSortingAPI\CardSortingAPI\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\vinitfal\Downloads\CardSorting - Full\CardSorting\backend\CardSortingAPI\CardSortingAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vinitfal\Downloads\CardSorting - Full\CardSorting\backend\CardSortingAPI\CardSortingAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vinitfal\Downloads\CardSorting - Full\CardSorting\backend\CardSortingAPI\CardSortingAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

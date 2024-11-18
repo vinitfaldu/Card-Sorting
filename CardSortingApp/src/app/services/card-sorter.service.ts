@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class CardSorterService {
-  private apiUrl = 'https://localhost:44318/api/Card';
+  private apiUrl = 'https://cardsortingapi-vinitfaldu.azurewebsites.net/api/Card';
 
   constructor(private http: HttpClient) {}
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CardSortingAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+463a9da2cd6c510f4117783acf2be07225caffda")]
 [assembly: System.Reflection.AssemblyProductAttribute("CardSortingAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CardSortingAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
